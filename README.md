@@ -4,7 +4,7 @@ I’m Martin. I make games with **MUT Studios**.
 
 [Play something](https://mut-studios.itch.io/) / [Watch the channel](https://www.youtube.com/@MUT-Studios) / [Read a devlog](https://github.com/UnspeakableTNT/Final-Empires)
 
-<!-- BEGIN AUTO:profile-projects sha256=aa45da86210b3d5a605293ace2181f21b1711f80bd19bcb09fb3d1033f52bc32 -->
+<!-- BEGIN AUTO:profile-projects sha256=c264164764b5e57a2198070ec1c8c7bb31a6b4fc26262caa33b87a6fba8ca6a2 -->
 ## Games you can play
 
 <table>
@@ -31,6 +31,9 @@ I’m Martin. I make games with **MUT Studios**.
 ### [??? 👀](docs/projects/surprise.md)
 
 - **[AKHRON](docs/projects/akhron.md)**: A game I’m working on with MUT Studios. Still in development.
+- **[Drifted Beyond](docs/projects/drifted-beyond.md)**: A survival game set in a world created by Keeper. Built in Unity and still in development.
+- **[Dark Tales: The Beginning of Existence](docs/projects/dark-tales.md)**: A narrative game about choice, control, Reality and Eternity. Still in development.
+- **[Studio animations](docs/projects/studio-animations.md)**: Code-driven shorts, character movement and scene experiments I’m working on.
 
 ## Smaller projects and experiments
 
