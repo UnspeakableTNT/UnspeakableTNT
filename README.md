@@ -42,6 +42,14 @@ I’m Martin. I make games with **MUT Studios**.
 - **[Qwen Voice Studio](docs/projects/qwen-voice-studio.md)**: A local voice tool I’m preparing for a possible public release.
 <!-- END AUTO:profile-projects -->
 
+## On my desk right now
+
+Final Empires is getting another round of story mode work. Fewer things covering the map, more useful workers and scouts, and saving that needs to survive actual play.
+
+[What's changing, and what still needs fixing](docs/updates/2026-11-11-final-empires-update.md)
+
+The surprise project is still a surprise. 👀
+
 ## Watch a little
 
 - [Spider Control trailer](https://www.youtube.com/watch?v=OThtFKlo3Xw) / 1:10
