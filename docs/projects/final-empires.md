@@ -28,3 +28,9 @@ One write-up follows a final-boss bug that looked like a balance problem but tur
 - [Play Final Empires](https://finalempires.com)
 - [Read the final-boss bug story](https://github.com/UnspeakableTNT/Final-Empires/blob/main/reports/final-empire-bug-case-study.md)
 <!-- END AUTO:project-final-empires -->
+
+## November 11: story mode work
+
+I'm working through the controls, unit behavior, saving and sound. The map needs less text over it and the people on it need to do their jobs. Marketplace tools for future maps and story worlds are also on the list.
+
+[Read the update](../updates/2026-11-11-final-empires-update.md). The update is still in development, so don't read this as a release announcement.
